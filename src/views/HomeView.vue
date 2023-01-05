@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import TheWelcome from "../components/TheWelcome.vue";
-import Forum from "../components/Forum.vue";
+import Forum from "../components/Chat.vue";
 </script>
 
 <template>

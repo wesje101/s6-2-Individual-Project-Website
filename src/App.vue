@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from "vue-router";
 import HelloWorld from "./components/HelloWorld.vue";
-import Forum from "./components/Forum.vue";
+import Forum from "./components/Chat.vue";
 </script>
 
 <template>
@@ -9,7 +9,7 @@ import Forum from "./components/Forum.vue";
     <img
       alt="Vue logo"
       class="logo"
-      src="@/assets/reddit-logo.png"
+      src="@/assets/CySpeenTransparent.gif"
       width="125"
       height="125"
     />
